@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjeingohf.lider-prestig.ru/sitemap.xml
